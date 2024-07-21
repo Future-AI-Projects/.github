@@ -2,7 +2,7 @@
 
 # 🌟 Welcome to Future AI Projects! 🌟
 
-![AI](https://giphy.com/gifs/loop-brain-electricity-YS57N6teaevJASvcMA) <iframe src="https://giphy.com/embed/YS57N6teaevJASvcMA" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-brain-electricity-YS57N6teaevJASvcMA">via GIPHY</a></p>
+![AI](https://giphy.com/gifs/loop-brain-electricity-YS57N6teaevJASvcMA)
 
 Welcome to **Future AI Projects**, where innovation meets creativity! We are a dynamic team committed to pioneering cutting-edge AI projects that push the boundaries of technology. Co-founded by [Kishore (@kuttykishorekk)](https://github.com/kuttykishorekk) and [Zihang (@callmeeric5)](https://github.com/callmeeric5), our organization is dedicated to exploring and developing the future of artificial intelligence.
 
