@@ -130,8 +130,6 @@ We are excited to announce that our project repositories will be coming soon! St
 
 ## 🌈 Join Us
 
-![Join Us](https://media.giphy.com/media/l0HlVQbU5uSZxNoGI/giphy.gif)
-
 We are always looking for passionate individuals to join our team and contribute to our projects. Whether you're an AI expert, a developer, or a student eager to learn, there’s a place for you here.
 
 ### How to Get Involved
@@ -141,8 +139,6 @@ We are always looking for passionate individuals to join our team and contribute
 3. **Contribute** by submitting pull requests and collaborating on projects.
 
 ## 📫 Contact Us
-
-![Contact](https://media.giphy.com/media/26DN6TdlKpiL3k49G/giphy.gif)
 
 Feel free to reach out to us through the following channels:
 
